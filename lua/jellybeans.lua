@@ -1,5 +1,3 @@
-vim.g.colors_name = "jellybeans"
-
 local lush = require("lush")
 local hsl = lush.hsl
 
